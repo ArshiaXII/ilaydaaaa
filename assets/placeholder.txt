@@ -1,0 +1,9 @@
+Bu klasörde şu fotoğraflar olmalı:
+
+1. ANA-FOTOGRAF.jpg - Ana hero fotoğrafı
+2. FOTOGRAF-1.jpg - Başlangıç hikayesi fotoğrafı  
+3. FINAL-FOTOGRAF.jpg - Final bölüm fotoğrafı
+
+Fotoğrafları yükledikten sonra bu dosyayı silebilirsiniz.
+
+Not: Fotoğraflar yoksa site yine de çalışır, sadece placeholder gösterir.
